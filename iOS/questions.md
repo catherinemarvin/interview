@@ -46,3 +46,10 @@
 * Have you ever used a testing framework?
   * What do you think the role of testing is?
 * What kinds of problems do you enjoy working on?
+* How do you feel about Swift?
+
+General Questions
+
+* Why did you start learning iOS?
+* What are your favorite development tools?
+* What are you most excited about learning?
